@@ -1,6 +1,6 @@
 body {
   display: grid;
-  grid-template-columns: 15% 21% auto;
+  grid-template-columns: 1fr 1fr 4fr;
   position: relative;
   margin: auto;
   grid-template-areas: "nav image header "
